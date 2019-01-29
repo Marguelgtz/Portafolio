@@ -1,7 +1,5 @@
 import React from 'react'
 import "./home.css";
-import Modal from 'react-modal';
-
 
 class Home extends React.Component {
   constructor(){

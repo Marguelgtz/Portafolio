@@ -86,3 +86,36 @@ align-items: center;
   position: absolute;
   margin-top: -10px;
 }
+.cardBody {
+  overflow-y: scroll;
+  height: 400px;
+}
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 8%;
+}
+
+.about-img {
+  border: 1px solid black;
+  width: 25%;
+  height: 120px;
+}
+
+.about-text {
+  width: 65%;
+}
+
+.education-container{
+  display: flex;
+  padding: 5%;
+  justify-content: space-between;
+}
+.about-lambda {
+  width: 50%;
+  padding-top: 40px;
+}
+.left--container {
+  width: 45%;
+}
